@@ -1,0 +1,154 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Kalam:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Gloria+Hallelujah&family=Kalam:wght@300&display=swap');
+
+ body.paginainicial{
+     background-image:linear-gradient(to bottom, #FF2B0F, #FFA704, #FFF500, #32EA06, #02A3FF, #7856FF);
+     background-attachment: fixed;
+ }
+
+ main.paginainicial{
+     background-color: #ffd1ffd3;
+     border-radius: 10px;
+     padding: 10px;
+     margin: auto;
+     width: 800px;
+     height: auto;
+ }
+ 
+ h1.paginainicial{
+     text-align: center;
+     color: #0C4277;
+     font-family: 'Gloria Hallelujah', cursive;
+ }
+ 
+ h2.paginainicial{
+     color: #0C4277;
+     font-family: 'Gloria Hallelujah', cursive;
+ }
+
+ p.paginainicial{
+     font-family: 'Kalam', cursive;
+     font-size: 16px;
+ }
+
+ a.paginainicial{
+     text-decoration: none;
+     color: #0C4277;
+     font-weight: bold;
+ }
+
+ a.paginainicial:hover{
+     background-image: linear-gradient(to right, #FF2B0F, #FFA704, #FFF500, #32EA06, #02A3FF, #7856FF);
+     text-decoration: overline #0C4277 ;
+ }
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+ @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Kalam:wght@300&display=swap');
+
+ body.pagcat{
+     background-image: linear-gradient(to bottom, #ffa9fc, #fd80f9, #f84af2) ;
+ }
+
+ main.pagcat{
+     background-color: rgba(255, 255, 255, 0.719);
+     width: 800px;
+     padding: 10px;
+     border-radius: 10px;
+     margin: auto;
+ }
+ 
+ h1.pagcat{
+     color: #0C4277;
+     font-family: 'Gloria Hallelujah', cursive;
+ }
+
+ p.pagcat{
+     font-family: 'Kalam', cursive;
+     font-weight: bolder;
+ }
+
+ a.pagcat{
+     text-decoration: none;
+     color: #0C4277;
+     font-weight: bolder;
+ }
+
+ a.pagcat:hover{
+     text-decoration: overline;
+     color: darkcyan;
+     background-color: lightpink;
+ }
+
+ body.pagnot{
+    background-image: linear-gradient(to bottom, #5272A2, #27364d) ;
+ }
+
+ main.pagnot{
+    background-color: #202124;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    width: 662px;
+ }
+
+ h1.pagnot{
+    color: #BDC1C6;
+    font-size: 20px;
+ }
+
+ h2.pagnot{
+    color: #BDC1C6;
+ }
+
+ a.pagnot{
+    color: #BDC1C6;
+    text-decoration: none;
+ }
+
+ a.pagnot:hover{
+     text-decoration: overline;
+     color: #02A3FF;
+     background-color: #07213b;
+ }
+
+ body.pagalien{
+    background-image: linear-gradient(to bottom, #000000 15%, #142525 30%, #42564F 45%, #88A189 60%, #42564F 75%, #142525 85%, #000000 100%) ;
+ }
+
+ main.pagalien{
+    background-color: rgba(204, 204, 204, 0.829);
+    padding: 10px;
+    border-radius: 10px;
+    width: 602px;
+    margin: auto;
+ }
+
+ h1.pagalien{
+    color: #102020;
+ }
+ 
+ h2.pagalien{
+    color: #102020;
+ }
+ 
+ h3.pagalien{
+    color: #102020;
+ }
+
+ a.pagalien{
+     text-decoration: none;
+     color: #42564F;
+ }
+
+ a.pagalien:hover{
+     text-decoration: overline;
+     color: #43aa2a;
+     background-color: #102020;
+ }
